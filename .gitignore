@@ -1,2 +1,6 @@
 
 UniversityRegister/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+UniversityRegister/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.Extensions.props
+UniversityRegister/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net45/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+UniversityRegister/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/build/net46/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props
+UniversityRegister/packages/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0/tools/RoslynLatest/System.Security.Cryptography.X509Certificates.dll
